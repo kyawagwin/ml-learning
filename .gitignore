@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.env/
+
+# Jupyter notebook configuration
+.jupyter/
+
+# Data and output files
+data/
+output/
+
+# Logs
+*.log
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Miscellaneous
+.DS_Store
+
+# virtualenv
+venv/
